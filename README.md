@@ -5,7 +5,7 @@
 ### AI Engineer • Machine Learning • Full Stack Developer • Backend Engineer
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Machine+Learning+Engineer;Backend+Developer;Full+Stack+Developer;LLM+Application+Developer;FastAPI+Developer;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Machine+Learning+Engineer;Backend+Developer;Full+Stack+Developer" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 
 <br>
 
-<a href="YOUR_RESUME_LINK">
+<a href="https://drive.google.com/file/d/1oavhFcNd0fBMMauZvkpYhbYx-WKuWZ77/view?ts=6a455ab3">
 <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -26,7 +26,7 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 </a>
 
 <a href="mailto:harshitnegipro@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📧_Email-Harshit_Negi-EA4335?style=for-the-badge" alt="Email"/>
 </a>
 
 <a href="https://leetcode.com/harshitnegi957">
@@ -189,10 +189,6 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 
 <a href="https://linkedin.com/in/negiharshit">
 <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/aazaadcoder">
-<img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
