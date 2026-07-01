@@ -25,11 +25,9 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<p align="center">
-  <a href="mailto:harshitnegipro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<a href="mailto:harshitnegipro@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-Harshit_Negi-EA4335?style=for-the-badge" alt="Email"/>
+</a>
 
 <a href="https://leetcode.com/harshitnegi957">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -185,11 +183,10 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 
 <br><br>
 
-<p align="center">
-  <a href="mailto:harshitnegipro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<a href="mailto:harshitnegipro@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com/in/negiharshit">
 <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
