@@ -168,5 +168,18 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 <b>GitHub:</b> 20+ Public Repositories
 
 </p>
-
 ---
+
+<div align="center">
+
+### Thanks for stopping by! 👋
+
+Always learning, always building.
+
+Let's create something amazing together.
+
+<br>
+
+⭐ If you find any of my projects interesting, feel free to connect or collaborate.
+
+</div>
