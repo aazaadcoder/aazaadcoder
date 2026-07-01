@@ -1,16 +1,174 @@
 <h1 align="center">
-Hi 👋 I'm Harshit Negi
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Harshit Negi
 </h1>
 
 <h3 align="center">
 
-AI Engineer • Machine Learning • Full Stack Developer • Backend Engineer
+AI Engineer • Machine Learning • Backend Developer • Full Stack Developer
 
 </h3>
 
 <p align="center">
 
-Building intelligent software that solves real-world problems using AI, Machine Learning and scalable backend systems.
+Building intelligent software that combines Artificial Intelligence,
+Machine Learning, scalable backend systems and modern web technologies.
+
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/negiharshit">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:harshitnegipro@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/harshitnegi957">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/harshitnegipro">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
+</a>
+
+</p>
+
+<h2 align="center">⚒️ Tech Stack</h2>
+
+<br>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,html,css&theme=dark"/>
+</p>
+
+<br>
+
+<h3 align="center">Frontend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap&theme=dark"/>
+</p>
+
+<br>
+
+<h3 align="center">Backend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,redis,firebase&theme=dark"/>
+</p>
+
+<br>
+
+<h3 align="center">AI / Machine Learning</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+
+</p>
+
+<br>
+
+<h3 align="center">DevOps & Cloud</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,postman&theme=dark"/>
+</p>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=aazaadcoder&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazaadcoder&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%"
+src="https://streak-stats.demolab.com?user=aazaadcoder&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+<h2 align="center">🏅 GitHub Trophies</h2>
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=aazaadcoder&theme=algolia&row=1&column=7&margin-w=15&no-frame=true"/>
+
+</p>
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=aazaadcoder&theme=github-compact&hide_border=true"/>
+
+</p>
+<h2 align="center">💻 Coding Profiles</h2>
+
+<p align="center">
+
+<a href="https://leetcode.com/harshitnegi957">
+<img src="https://img.shields.io/badge/LeetCode-1615+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/harshitnegipro">
+<img src="https://img.shields.io/badge/Codeforces-1269-445f9d?style=for-the-badge"/>
+</a>
+
+</p>
+<h2 align="center">
+
+🌎 Let's Connect
+
+</h2>
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:harshitnegipro@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="YOUR_PORTFOLIO">
+
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+
+</a>
 
 </p>
 
@@ -18,303 +176,6 @@ Building intelligent software that solves real-world problems using AI, Machine 
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Python+Developer;Backend+Engineer;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
+⭐ Thanks for visiting my profile!
 
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Undergraduate @ RGIPT
-
-- 🤖 Passionate about AI, Machine Learning and LLM Applications
-
-- 💻 Full Stack Developer
-
-- 🐍 Python Backend Developer
-
-- ⚡ Building scalable AI products
-
-- 🌱 Currently exploring
-
-```
-Agentic AI
-RAG
-LangGraph
-FastAPI
-Cloud Deployment
-System Design
-```
-
----
-
-## 🧠 Currently Working On
-
-- AI Customer Support Platform
-
-- Multi-Agent AI Systems
-
-- Advanced Full Stack Applications
-
-- Open Source
-
----
-
-## 💼 Experience
-
-### Backend Developer Intern
-
-**Carnaama**
-
-• Built scalable REST APIs
-
-• Optimized MongoDB Queries
-
-• JWT Authentication
-
-• Recommendation Engine using XGBoost
-
----
-
-### Software Development Intern
-
-RGIPT
-
-• Built productivity Android backend
-
-• Developed NLP Pipeline
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-Python
-
-JavaScript
-
-TypeScript
-
-C++
-
-SQL
-
----
-
-### AI / ML
-
-TensorFlow
-
-PyTorch
-
-Scikit-Learn
-
-LangChain
-
-LangGraph
-
-OpenCV
-
-XGBoost
-
-Transformers
-
-Pandas
-
-NumPy
-
----
-
-### Backend
-
-Node.js
-
-Express
-
-FastAPI
-
-REST APIs
-
-JWT
-
-MongoDB
-
-PostgreSQL
-
-MySQL
-
-SQLite
-
----
-
-### Frontend
-
-React
-
-Next.js
-
-TailwindCSS
-
-HTML
-
-CSS
-
----
-
-### Tools
-
-Docker
-
-Git
-
-GitHub
-
-Linux
-
-AWS
-
-Power BI
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Customer Support Platform
-
-AI Voice Agents
-
-Knowledge Base (RAG)
-
-Human Escalation
-
-Admin Dashboard
-
-React + FastAPI + MongoDB + OpenAI
-
----
-
-### 📊 Telecom Churn Intelligence
-
-96.8% ROC-AUC
-
-TensorFlow
-
-XGBoost
-
-Power BI
-
-Explainable AI
-
----
-
-### 🏥 ICU Early Warning System
-
-Deep Learning
-
-Transformers
-
-TCN
-
-PyTorch
-
-MIMIC-IV
-
----
-
-### 🧠 Multi-Agent Research Assistant
-
-LangGraph
-
-LangChain
-
-Together AI
-
-Tavily
-
-Stateful AI Agents
-
----
-
-### 💬 ChatUp
-
-Real-time Chat Application
-
-Socket.io
-
-JWT
-
-MERN
-
----
-
-### 🌱 Plant Disease Detection
-
-CNN
-
-TensorFlow
-
-Computer Vision
-
----
-
-## 🏆 Achievements
-
-🏅 SIH 2025 Pre-Finalist
-
-🏅 700+ DSA Problems Solved
-
-🏅 LeetCode Rating 1615
-
-🏅 JEE Advanced Qualified
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aazaadcoder&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazaadcoder&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aazaadcoder&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aazaadcoder&theme=algolia&no-frame=true&column=7"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-
-<a href="mailto:harshitnegipro@gmail.com">Email</a> •
-
-<a href="https://leetcode.com/harshitnegi957">LeetCode</a> •
-
-<a href="https://codeforces.com/profile/harshitnegipro">Codeforces</a>
-
-</p>
-
----
-
-⭐ "Building AI products that make an impact."
