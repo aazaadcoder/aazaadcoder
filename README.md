@@ -169,16 +169,38 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 
 </p>
 
+---
+
 <div align="center">
 
-### Thanks for stopping by! 👋
+# 🚀 Thanks for Visiting!
 
-Always learning, always building.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Always+Learning.;Always+Building.;Always+Improving.;Let's+Build+Something+Great+Together."/>
 
-Let's create something amazing together.
+<br><br>
+
+💡 **"Great software isn't just written—it's engineered with purpose."**
+
+<br><br>
+
+<a href="mailto:harshitnegipro@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/negiharshit">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/aazaadcoder">
+<img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aazaadcoder&theme=github_dark"/>
 
 <br>
 
-⭐ If you find any of my projects interesting, feel free to connect or collaborate.
+<img src="https://komarev.com/ghpvc/?username=aazaadcoder&style=for-the-badge&color=blue"/>
 
 </div>
