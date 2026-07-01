@@ -1,29 +1,320 @@
-<h1 align="center">Hi 👋, I'm Harshit Negi</h1>
-<h3 align="center">A passionate Full Stack(MERN) Developer from India</h3>
+<h1 align="center">
+Hi 👋 I'm Harshit Negi
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aazaadcoder" alt="aazaadcoder" /></a> </p>
+<h3 align="center">
 
-<p align="left"> <a href="https://twitter.com/harshit_ne74412" target="blank"><img src="https://img.shields.io/twitter/follow/harshit_ne74412?logo=twitter&style=for-the-badge" alt="harshit_ne74412" /></a> </p>
+AI Engineer • Machine Learning • Full Stack Developer • Backend Engineer
 
-- 🔭 I’m currently working on [BrainWave](https://brainwave-harshit-negi.vercel.app/)
+</h3>
 
-- 🌱 I’m currently learning **Next.js**
+<p align="center">
 
-- 💬 Ask me about **JS, React, Node, Express, MongoDB, MySQL, C++,**
+Building intelligent software that solves real-world problems using AI, Machine Learning and scalable backend systems.
 
-- 📫 How to reach me **harshitnegipro@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshit_ne74412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshit_ne74412" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/negiharshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="negiharshit" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/harshitnegipro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshitnegipro" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshitnegi957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitnegi957" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aazaadcoder&show_icons=true&locale=en&layout=compact" alt="aazaadcoder" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aazaadcoder&" alt="aazaadcoder" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Python+Developer;Backend+Engineer;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
+
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Undergraduate @ RGIPT
+
+- 🤖 Passionate about AI, Machine Learning and LLM Applications
+
+- 💻 Full Stack Developer
+
+- 🐍 Python Backend Developer
+
+- ⚡ Building scalable AI products
+
+- 🌱 Currently exploring
+
+```
+Agentic AI
+RAG
+LangGraph
+FastAPI
+Cloud Deployment
+System Design
+```
+
+---
+
+## 🧠 Currently Working On
+
+- AI Customer Support Platform
+
+- Multi-Agent AI Systems
+
+- Advanced Full Stack Applications
+
+- Open Source
+
+---
+
+## 💼 Experience
+
+### Backend Developer Intern
+
+**Carnaama**
+
+• Built scalable REST APIs
+
+• Optimized MongoDB Queries
+
+• JWT Authentication
+
+• Recommendation Engine using XGBoost
+
+---
+
+### Software Development Intern
+
+RGIPT
+
+• Built productivity Android backend
+
+• Developed NLP Pipeline
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+Python
+
+JavaScript
+
+TypeScript
+
+C++
+
+SQL
+
+---
+
+### AI / ML
+
+TensorFlow
+
+PyTorch
+
+Scikit-Learn
+
+LangChain
+
+LangGraph
+
+OpenCV
+
+XGBoost
+
+Transformers
+
+Pandas
+
+NumPy
+
+---
+
+### Backend
+
+Node.js
+
+Express
+
+FastAPI
+
+REST APIs
+
+JWT
+
+MongoDB
+
+PostgreSQL
+
+MySQL
+
+SQLite
+
+---
+
+### Frontend
+
+React
+
+Next.js
+
+TailwindCSS
+
+HTML
+
+CSS
+
+---
+
+### Tools
+
+Docker
+
+Git
+
+GitHub
+
+Linux
+
+AWS
+
+Power BI
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Customer Support Platform
+
+AI Voice Agents
+
+Knowledge Base (RAG)
+
+Human Escalation
+
+Admin Dashboard
+
+React + FastAPI + MongoDB + OpenAI
+
+---
+
+### 📊 Telecom Churn Intelligence
+
+96.8% ROC-AUC
+
+TensorFlow
+
+XGBoost
+
+Power BI
+
+Explainable AI
+
+---
+
+### 🏥 ICU Early Warning System
+
+Deep Learning
+
+Transformers
+
+TCN
+
+PyTorch
+
+MIMIC-IV
+
+---
+
+### 🧠 Multi-Agent Research Assistant
+
+LangGraph
+
+LangChain
+
+Together AI
+
+Tavily
+
+Stateful AI Agents
+
+---
+
+### 💬 ChatUp
+
+Real-time Chat Application
+
+Socket.io
+
+JWT
+
+MERN
+
+---
+
+### 🌱 Plant Disease Detection
+
+CNN
+
+TensorFlow
+
+Computer Vision
+
+---
+
+## 🏆 Achievements
+
+🏅 SIH 2025 Pre-Finalist
+
+🏅 700+ DSA Problems Solved
+
+🏅 LeetCode Rating 1615
+
+🏅 JEE Advanced Qualified
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aazaadcoder&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazaadcoder&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aazaadcoder&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aazaadcoder&theme=algolia&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+
+<a href="mailto:harshitnegipro@gmail.com">Email</a> •
+
+<a href="https://leetcode.com/harshitnegi957">LeetCode</a> •
+
+<a href="https://codeforces.com/profile/harshitnegipro">Codeforces</a>
+
+</p>
+
+---
+
+⭐ "Building AI products that make an impact."
