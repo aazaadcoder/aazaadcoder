@@ -147,18 +147,26 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 
 <div align="center">
 
-<a href="https://leetcode.com/harshitnegi957">
-<img src="https://img.shields.io/badge/LeetCode-700%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/harshitnegi957" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/harshitnegipro">
-<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-445f9d?style=for-the-badge"/>
+<a href="https://codeforces.com/profile/harshitnegipro" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/aazaadcoder">
-<img src="https://img.shields.io/badge/GitHub-20%2B%20Repositories-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/aazaadcoder" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
+<p align="center">
+
+<b>LeetCode:</b> 700+ Problems Solved &nbsp; • &nbsp;
+<b>Codeforces:</b> Competitive Programmer &nbsp; • &nbsp;
+<b>GitHub:</b> 20+ Public Repositories
+
+</p>
 
 ---
