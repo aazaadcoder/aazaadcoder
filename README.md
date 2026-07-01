@@ -114,3 +114,45 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 </div>
 
 ---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aazaadcoder&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazaadcoder&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=aazaadcoder&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aazaadcoder&theme=github-compact&hide_border=true&radius=12"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aazaadcoder&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aazaadcoder&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
