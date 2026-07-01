@@ -143,16 +143,22 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 
 ---
 
-# 🏆 GitHub Trophies
+# 💻 Coding Profiles
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aazaadcoder&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+<a href="https://leetcode.com/harshitnegi957">
+<img src="https://img.shields.io/badge/LeetCode-700%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/harshitnegipro">
+<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-445f9d?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/aazaadcoder">
+<img src="https://img.shields.io/badge/GitHub-20%2B%20Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aazaadcoder&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
+---
