@@ -168,7 +168,6 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 <b>GitHub:</b> 20+ Public Repositories
 
 </p>
----
 
 <div align="center">
 
